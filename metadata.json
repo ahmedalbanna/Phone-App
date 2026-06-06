@@ -1,0 +1,6 @@
+{
+  "name": "هاتفي",
+  "description": "تطبيق اتصال للهاتف متكامل ومصمم بواجهة عربية أنيقة تتيح إجراء المكالمات، استعراض السجلات، وإدارة جهات الاتصال وحظر الأرقام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
